@@ -8,6 +8,7 @@
 - 1 tsp vanilla extract
 - /4 cup unsweetened cocoa powder
 - 1/2 tsp ground cinnamon
+- Random change to the ingredients from branch task_3, add salt
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
